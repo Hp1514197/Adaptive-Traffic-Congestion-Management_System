@@ -105,7 +105,3 @@ Rutwij Daptardar - [RDmaverick](https://github.com/RDmaverick)
 ### Acknowledgement
 
 We would like to extend our sincere thanks to our mentor Mrs. Nirmala Shinde Baloorkar for her kind help and valuable advice. Her support and constant supervision were imperative for the successful completion of this project. We would also like to express our special gratitude and thanks to Mrs. Kavita Kelkar, the subject-matter expert for this project, for her valuable inputs and guidance.   
-
-------------------------------------------
-### License
-This project is licensed under the Apache License 2.0 - see the [LICENSE](./LICENSE) file for details.

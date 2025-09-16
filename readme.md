@@ -1,5 +1,5 @@
 <p align="center">
- <img height=200px src="./traffic-signal.jpg" alt="Traffic Signal Timer">
+ <img height=200px src="./traffic-signal (1).jpg" alt="Traffic Signal Timer">
 </p>
 
 <h1 align="center">Adaptive Traffic Signal Timer</h1>
@@ -104,4 +104,5 @@ Rutwij Daptardar - [RDmaverick](https://github.com/RDmaverick)
 ### Acknowledgement
 
 We would like to extend our sincere thanks to our mentor Mrs. Nirmala Shinde Baloorkar for her kind help and valuable advice. Her support and constant supervision were imperative for the successful completion of this project. We would also like to express our special gratitude and thanks to Mrs. Kavita Kelkar, the subject-matter expert for this project, for her valuable inputs and guidance.   
+
 
